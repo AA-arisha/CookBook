@@ -18,7 +18,7 @@ A modern digital cookbook built with **React** and **Redux Persist**. This app a
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, JSX, CSS
+- **Frontend**: React, JSX, Tailwind
 - **State Management**: Redux Toolkit + Redux Persist
 - **API**: Dummy JSON or custom backend (e.g ([https://jsonplaceholder.typicode.com](https://dummyjson.com/recipes)))
 - **Icons/UI**: FontAwesome/ iconify
